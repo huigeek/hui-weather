@@ -1,0 +1,22 @@
+{
+  "name": "hui-weather",
+  "version": "0.0.1",
+  "description": "A node.js tool, use baidu api to get weather data",
+  "main": "index.js",
+  "bin": {
+    "hui-weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "nodejs"
+  ],
+  "author": "huigeek",
+  "license": "MIT",
+  "dependencies": {
+    "configstore": "^5.0.1",
+    "table": "^6.0.3"
+  }
+}
