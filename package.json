@@ -1,6 +1,6 @@
 {
   "name": "hui-weather",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node.js tool, use baidu api to get weather data",
   "main": "index.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huigeek/hui-weather.git"
   },
   "keywords": [
     "weather",
