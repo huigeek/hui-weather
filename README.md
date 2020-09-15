@@ -25,3 +25,5 @@ hui-weather 郑州
 // ak 可重新配置
 hui-weather apikey=newak
 ```
+
+![-w783](./src/imgs/example.png)
